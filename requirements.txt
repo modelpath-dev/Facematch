@@ -1,0 +1,9 @@
+deepface
+boto3
+pdf2image
+openpyxl
+opencv-python
+python-dotenv
+pandas
+tf-keras
+tensorflow
